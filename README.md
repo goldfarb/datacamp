@@ -1,3 +1,3 @@
-# datacamp 
+# What is an iSchool?
 
-This repo is part of playing around with git during the CRDDS datacamp August 2025
+_This is a project from the [CRDDS](https://www.colorado.edu/crdds/) [August 2025 Research Data Foundations Camp](https://cu-boulder-crdds.github.io/Research-Data-Foundations-Camp-2025-August/). The question "what is an Information School?" was prompted by a conversation I had during an orientation event with some faculty of CU Boulder's [example thereof](https://www.colorado.edu/cmdi/infoscience)._
