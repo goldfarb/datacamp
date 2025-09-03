@@ -64,7 +64,7 @@ I'm interested in building on this in several ways, including:
 * The [github hosted web version](https://goldfarb.github.io/datacamp/) treats some of the markdown differently than github itself; I am making formatting choices for the github README version.
 
 ****
-The code as well as this README are in the [Jupyter notebook](https://github.com/goldfarb/datacamp/blob/d6c4cd6697a6957af6056a32c1026f2084020172/ischools.ipynb)
+The code as well as this README are in the [Jupyter notebook](https://github.com/goldfarb/datacamp/blob/main/ischools.ipynb)
 
 
 ***
