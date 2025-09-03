@@ -1,6 +1,6 @@
 # What is an iSchool?
 
-_This is a project from the [CRDDS](https://www.colorado.edu/crdds/) [August 2025 Research Data Foundations Camp](https://cu-boulder-crdds.github.io/Research-Data-Foundations-Camp-2025-August/). The question "what is an Information School?" was prompted by a conversation I had during an orientation event with some faculty of CU Boulder's [example thereof](https://www.colorado.edu/cmdi/infoscience)._
+_This is a project from the [CRDDS](https://www.colorado.edu/crdds/) [August 2025 Research Data Foundations Camp](https://cu-boulder-crdds.github.io/Research-Data-Foundations-Camp-2025-August/). The question "what is an Information School?" was prompted by a conversation I had during an orientation event with some faculty in CU Boulder's [example thereof](https://www.colorado.edu/cmdi/infoscience)._
 
 ****
 
