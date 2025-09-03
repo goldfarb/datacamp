@@ -10,7 +10,7 @@ As someone who is newly part of such a place, and with some but definitely limit
 
 ****
 
-## List of examples
+### List of examples
 
 I am going to gather the list of iSchools and Information Science departments granting PhDs ~three~ two ways:
 
@@ -22,7 +22,7 @@ I am going to gather the list of iSchools and Information Science departments gr
 
 &#x2610; The list extracted from the first one hundred google results for 'information science phd' `as part of a next step / future project`
 
-### _Extracting the data_
+### Extracting the data
 
    
 #### from iSchools.org
@@ -34,7 +34,7 @@ My process was to use [Selenium](https://www.selenium.dev/) to copy the source c
 
 For the ALA list of accredited programs and the programs with PhD, I copied the text from the sites and cleaned with a combination of regex in Sublime Text and some logic in a google sheet
 
-### _Cleaning the data_
+### Cleaning the data
 
 I chose to clean up the data from the iSchool member database and the ALA lists manually - given the number of schools in each (fewer than 100) I decided it made more sense to make sure all the names were standardized by as a human looking at a google sheet, rather than writing code to make sure everything was of the form `University of State City` (I'm looking at you, _`Albany, University at, SUNY`_ and _`University of North Carolina at Chapel Hill`_ among others)
 
