@@ -70,7 +70,7 @@ The code as well as the information in this README are in the [Jupyter notebook]
 ***
 ### Outcomes
 
-* The list from iSchool dot org includes 54 schools in United States of America and Canada
+* The list from iSchool dot org includes 54 schools in the United States of America and Canada
 
 <details>
   <summary>There are 12 schools on the iSchools list that aren't included on the ALA's list of accredited programs</summary>
